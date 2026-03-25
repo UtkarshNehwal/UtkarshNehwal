@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Utkarsh 👋
 
-<!--
-**UtkarshNehwal/UtkarshNehwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+* Python
+* SQL
+* Pandas
+* Power BI
+* Excel
+
+---
+
+## 📊 Projects
+
+* 🔹 SQL Sales Analysis
+* 🔹 Netflix Data Analysis (Python)
+* 🔹 Power BI Dashboard
+
+---
+
+## 🚀 What I'm Learning
+
+* Data Analytics
+* Advanced SQL
+* Python for Data Science
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/utkarshnehwal/
+* Email: utkarshnehwal@gmail.com
+
+---
