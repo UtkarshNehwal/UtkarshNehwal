@@ -19,7 +19,7 @@ I am passionate about turning data into meaningful insights and building real-wo
 
 * 🔹 **SQL Sales Analysis** – Analyzed sales data to find top customers and revenue trends
 * 🔹 **Netflix Data Analysis (Python)** – Explored content trends using Pandas & Matplotlib
-* 🔹 **Power BI Dashboard** – Built interactive dashboard for business insights
+* 🔹 **Ola Power BI Dashboard** – Built interactive dashboard for business insights
 * 🔹 **CanteenEats** - A web-based canteen management and food ordering application.
 
 👉 *More projects coming soon...*
