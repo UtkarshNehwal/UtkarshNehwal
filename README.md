@@ -47,4 +47,4 @@ I am passionate about turning data into meaningful insights and building real-wo
 
 ---
 
-⭐ *I am actively looking for internships and entry-level opportunities in Data Analytics / Python roles.*
+⭐ *I am actively looking for internships and entry-level opportunities in Data Analytics / Python / AI roles.*
