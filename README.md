@@ -2,6 +2,8 @@
 
 🎓 MCA Student | 📊 Aspiring Data Analyst
 
+🌐 Portfolio: https://utkarshnehwal.github.io/
+
 I am passionate about turning data into meaningful insights and building real-world projects using AI, Python, SQL, and Power BI.
 
 ---
