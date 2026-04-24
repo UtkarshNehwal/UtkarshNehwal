@@ -19,6 +19,7 @@ I am passionate about turning data into meaningful insights and building real-wo
 
 ## 📊 Projects
 
+* 🔹 **Portfolio Website** - A personal portfolio website showcasing my projects and skills.
 * 🔹 **SQL Sales Analysis** – Analyzed sales data to find top customers and revenue trends.
 * 🔹 **Netflix Data Analysis (Python)** – Explored content trends using Pandas & Matplotlib.
 * 🔹 **Ola Power BI Dashboard** – Built interactive dashboard for business insights.
@@ -31,6 +32,7 @@ I am passionate about turning data into meaningful insights and building real-wo
 ## 🚀 What I'm Currently Learning
 
 * Advanced SQL & Query Optimization
+* AI
 * Python for Data Analysis
 * Real-world Data Analytics Projects
 
