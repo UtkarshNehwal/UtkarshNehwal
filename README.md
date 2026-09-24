@@ -33,6 +33,8 @@ I am passionate about turning data into meaningful insights and building real-wo
 
 * Advanced SQL & Query Optimization
 * AI
+* LLM
+* RAG
 * Python for Data Analysis
 * Real-world Data Analytics Projects
 
